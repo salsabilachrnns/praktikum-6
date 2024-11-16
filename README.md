@@ -46,7 +46,12 @@
   
 ![tampilan akhir tabel](https://github.com/user-attachments/assets/5b26eabc-9e4a-47cc-b479-2d63ba279006)
 
-# Flowchart Program
+## Flowchart Program
+
+Berikut adalah gambar flowchartnya : 
+
+![program phyton](https://github.com/user-attachments/assets/58ce83e4-6b86-4c25-a3c7-ed5d6cb21f42)
+
 
 Berikut adalah deskripsi flowchart program:
 
@@ -63,6 +68,7 @@ Berikut adalah deskripsi flowchart program:
 
 ## Flowchart Visual
 
-Berikut adalah representasi flowchart dalam teks:
+
+
 
 
