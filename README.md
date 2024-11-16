@@ -26,7 +26,8 @@
     ![meminta input pengguna](https://github.com/user-attachments/assets/5745dd61-61b0-44ba-af49-58bde1f93309)
   - Nilai akhir dihitung menggunakan fungsi `hitung_nilai_akhir`. Berikut perintah programnya :
 
-    ![rumus tugas akhir](https://github.com/user-attachments/assets/1edcf75f-fae5-429c-bbb2-5f22bfc4a206)
+    ![hitung nilai akhir](https://github.com/user-attachments/assets/b648a135-e95d-41a1-b46b-769f323c0d1d)
+
   - Data mahasiswa disimpan dalam bentuk dictionary dan ditambahkan ke list `data_mahasiswa`. Seperti ini perintah programannya :
 
     ![simpan data ke list](https://github.com/user-attachments/assets/469ff434-0f3e-4175-bced-fdbd0d27008e)
@@ -41,7 +42,9 @@
   ![tampilan daftar tabel](https://github.com/user-attachments/assets/cb920b95-c545-4021-9422-7db085ef43af)
 
 - Tabel ditampilkan dengan format yang rapi, menunjukkan nomor urut, nama, NIM, nilai tugas, nilai UTS, nilai UAS, dan nilai akhir.
+
   
+![tampilan akhir tabel](https://github.com/user-attachments/assets/5b26eabc-9e4a-47cc-b479-2d63ba279006)
 
 # Flowchart Program
 
