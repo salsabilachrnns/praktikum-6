@@ -1,5 +1,7 @@
 # Salsabila NIM : 352310495
-# Penjelasan Program praktikum 6
+# LAPORAN PRAKTIKUM 6
+
+
 ## Fungsi `hitung_nilai_akhir`
 - Fungsi ini menerima tiga parameter: `nilai_tugas`, `nilai_uts`, dan `nilai_uas`. Berikut perintah programnya :
 
@@ -65,10 +67,6 @@ Berikut adalah deskripsi flowchart program:
    - Jika **t**: Lanjut ke langkah 7
 7. **Tampilkan Daftar Mahasiswa**
 8. **End**
-
-## Flowchart Visual
-
-
 
 
 
